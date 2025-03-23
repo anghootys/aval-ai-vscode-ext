@@ -1,7 +1,7 @@
 {
   "name": "aval-ai",
   "displayName": "aval-ai",
-  "description": "AvalAI AI provider extention to use inside vscode.",
+  "description": "AvalAI AI provider extention for vscode.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
